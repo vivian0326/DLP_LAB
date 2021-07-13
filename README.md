@@ -1,6 +1,4 @@
-# DLP_LAB
-
-NCTU 109 Spring
+# DLP LAB (NCTU 109 Spring)
 
 ## LAB 1
 Implement ANN with forwarding pass and backpropagation using two hidden layers
@@ -18,7 +16,8 @@ Implement ResNet to classify diabetic retinopathy grading
 Implement a conditional sequence to sequence VAE for English tense conversion and generation
 
 ## LAB 6
-(1) Solve LunarLander-v2 using deep Q-network (DQN) and double deep Q-network (DDQN)
+(1) Solve LunarLander-v2 using deep Q-network (DQN) and double deep Q-network (DDQN)  
+
 (2) Solve LunarLanderContinuous-v2 using deep deterministic policy gradient (DDPG)
 
 ## LAB 7
